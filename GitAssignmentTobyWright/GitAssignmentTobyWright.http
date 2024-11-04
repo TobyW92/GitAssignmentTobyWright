@@ -1,0 +1,6 @@
+@GitAssignmentTobyWright_HostAddress = http://localhost:5275
+
+GET {{GitAssignmentTobyWright_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
